@@ -32,3 +32,9 @@ You can see the live demo here: https://tic-tac-toe-shifat01.netlify.app
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
 2. Open index.html in your favorite browser.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request or open an issue.
+
+## 📝 License
+- [MIT License](LICENSE)
