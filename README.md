@@ -4,7 +4,7 @@ A simple Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
 
 ## Demo
 
-You can see the live demo [here](#)
+You can see the live demo here: https://tic-tac-toe-shifat01.netlify.app
 
 ## Features
 
