@@ -29,7 +29,7 @@ You can see the live demo here: https://tic-tac-toe-shifat01.netlify.app
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/shifat01/Tic-Tac-Toe.git
 2. Open index.html in your favorite browser.
 
 ## 🤝 Contributing
